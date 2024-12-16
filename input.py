@@ -1,0 +1,6 @@
+collapse = input("ты любишь печенный картофель: ")
+print (collapse.upper())
+print (collapse.lower())
+print ("я не люблю печенный картофель".replace(" ", ""))
+print (collapse[:1])
+print (collapse[-1:])
